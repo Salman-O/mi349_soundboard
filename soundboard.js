@@ -13,3 +13,6 @@ function play3() {
   var audio3 = document.getElementById("audio3");
   audio3.play3();
 }
+
+
+let play = function(){document.getElementById("audio").play()}
