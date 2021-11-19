@@ -5,7 +5,7 @@ function play() {
 }
 
 function play2() {
-  audio2 = document.getElementById('play');
+  var audio2 = document.getElementById("play");
   audio2.play2();
 }
 
