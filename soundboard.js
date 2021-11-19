@@ -4,8 +4,8 @@ function play() {
   audio.play();
 
   var audio2 = document.getElementById('play');
-  audio2.play();
+  audio2.play2();
 
   var audio3 = document.getElementById("audio3");
-  audio3.play();
+  audio3.play3();
 }
