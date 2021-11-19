@@ -4,10 +4,9 @@ function play() {
   audio.play();
 }
 
-function play2() {
-    var audio2 = document.getElementById("audio2");
-    audio2.play2();
-  }
+function playSound () {
+    document.getElementById('play').play();
+}
 
   function play3() {
     var audio3 = document.getElementById("audio3");
