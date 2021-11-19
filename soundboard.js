@@ -2,14 +2,10 @@
 function play() {
   var audio = document.getElementById("lightsaber");
   audio.play();
-}
 
-function playSound () {
-    var audio = document.getElementById('play');
-    audio.play();
-}
+  var audio2 = document.getElementById('play');
+  audio2.play();
 
-  function play3() {
-    var audio3 = document.getElementById("audio3");
-    audio3.play3();
-  }
+  var audio3 = document.getElementById("audio3");
+  audio3.play();
+}
