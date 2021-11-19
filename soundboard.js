@@ -4,7 +4,7 @@ function play() {
   audio.play();
 }
 
-function play2() {
+function play() {
     var audio = document.getElementById("spongebob");
-    audio.play2();
+    audio.play();
   }
