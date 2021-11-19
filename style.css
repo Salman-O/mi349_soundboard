@@ -7,10 +7,9 @@ body {
     margin: 40px;
     padding: 40px;
     color: #242424;
-    border-top: 10px solid #242424;
     background: #fff;
  }
- 
+
 button {
     border: 0;
     line-height: 4;
