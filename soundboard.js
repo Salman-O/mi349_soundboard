@@ -5,11 +5,11 @@ function play() {
 }
 
 function play() {
-  var audio2 = document.getElementById("play");
-  audio2.play();
+  var audio = document.getElementById("play");
+  audio.play();
 }
 
 function play() {
-  var audio3 = document.getElementById("audio3");
-  audio3.play();
+  var audio = document.getElementById("audio3");
+  audio.play();
 }
