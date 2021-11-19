@@ -3,3 +3,12 @@ function play() {
     audio.play();
  }
   
+ function play() {
+    var audio = document.getElementById("audio2");
+    audio.play();
+ }
+
+ function play() {
+    var audio = document.getElementById("audio3");
+    audio.play();
+ }
