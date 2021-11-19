@@ -1,0 +1,10 @@
+button {
+    margin:0;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color:rgb(8, 49, 24);
+    border-radius: 10px;
+}
