@@ -4,11 +4,11 @@ function play() {
  }
   
  function play() {
-    var audio = document.getElementById("audio2");
+    var audio = document.getElementById("audio");
     audio.play();
  }
 
  function play() {
-    var audio = document.getElementById("audio3");
+    var audio = document.getElementById("audio");
     audio.play();
  }
